@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t1133\\OneDrive\\\u684C\u9762\\ch4\\ch4-p25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5DF20-4169-4A8D-875B-1B06F0477FFD}|ch4-p25\\ch4-p25.vcxproj|C:\\Users\\t1133\\OneDrive\\\u684C\u9762\\ch4\\ch4-p25\\ch4-p25\\main.ccp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FA5DF20-4169-4A8D-875B-1B06F0477FFD}|ch4-p25\\ch4-p25.vcxproj|solutionrelative:ch4-p25\\main.ccp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.ccp",
+              "DocumentMoniker": "C:\\Users\\t1133\\OneDrive\\\u684C\u9762\\ch4\\ch4-p25\\ch4-p25\\main.ccp",
+              "RelativeDocumentMoniker": "ch4-p25\\main.ccp",
+              "ToolTip": "C:\\Users\\t1133\\OneDrive\\\u684C\u9762\\ch4\\ch4-p25\\ch4-p25\\main.ccp*",
+              "RelativeToolTip": "ch4-p25\\main.ccp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T08:20:26.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

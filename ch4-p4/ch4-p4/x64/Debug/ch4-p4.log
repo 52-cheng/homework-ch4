@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\t1133\OneDrive\桌面\ch4\ch4-p4\ch4-p4\main.c(12,21): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Users\t1133\OneDrive\桌面\ch4\ch4-p4\ch4-p4\main.c(12,21):
+      placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  
+  ch4-p4.vcxproj -> C:\Users\t1133\OneDrive\桌面\ch4\ch4-p4\x64\Debug\ch4-p4.exe
